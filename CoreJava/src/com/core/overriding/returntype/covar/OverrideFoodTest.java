@@ -1,4 +1,4 @@
-package com.overriding.returntype.covar;
+package com.core.overriding.returntype.covar;
 
 /**
  * covarient return type As i changed Food in OverrideFoodBase to DogFood

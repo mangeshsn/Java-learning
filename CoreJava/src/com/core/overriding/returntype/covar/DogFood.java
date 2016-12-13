@@ -1,4 +1,4 @@
-package com.overriding.returntype.covar;
+package com.core.overriding.returntype.covar;
 
 public class DogFood extends Food{
 
