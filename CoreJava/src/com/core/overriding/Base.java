@@ -1,6 +1,10 @@
 package com.core.overriding;
 
 public class Base {
+	public static void yoMan(){
+		System.out.println("yo from static method!");
+		
+	}
 	public void hello(){
 		System.out.println("hello");
 	}

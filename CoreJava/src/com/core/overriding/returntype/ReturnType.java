@@ -8,5 +8,4 @@ public class ReturnType extends BaseReturn {
 		return "hello";
 		//return 12; //here return type cannot be changed it needs to be the same
 	}
-	
 }
