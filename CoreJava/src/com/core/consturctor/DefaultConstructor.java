@@ -10,6 +10,7 @@ package com.core.consturctor;
  * constructor in the class
  * 
  * The default constructor has same access modifier as the class
+ * if class is public the access modifier of the default constructor is also public.
  */
 public class DefaultConstructor {
 
